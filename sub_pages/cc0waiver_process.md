@@ -10,7 +10,7 @@ The form aims to support communities and organisations that would like to contri
 ## What you need to do:
 
 * If you know of a person or organization interested in contributing original material to Common Voice, make sure to explain to them that Common Voice is CC0 licensed and that they will need to make a CC0 waiver (effectively dedicating the material to the public domain) before it can be added to a Common Voice dataset.
-* If the contributor is willing to make the necessary CC0 waiver, please contact Hilary Juma  at hillary@mozillafoundation.org and cc commonvoice@mozilla.com 
+* If the contributor is willing to make the necessary CC0 waiver, please contact Gina Moape  at gina@mozillafoundation.org and cc commonvoice@mozilla.com 
 * Hillary and Mozilla Legal can then coordinate with the contributor to get a Contribution Agreement signed.
 * Note that there is no need to use this Contribution Agreement for material that is already in the public domain (like works published in the USA before 1926). If in doubt please contact the Common Voice team.
 
